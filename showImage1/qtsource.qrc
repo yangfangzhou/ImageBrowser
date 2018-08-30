@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/hello-world/main.qml</file>
+        <file>image_last_P.png</file>
+        <file>image_next_P.png</file>
+        <file>pic_fail.png</file>
+        <file>pic_loading.png</file>
+    </qresource>
+</RCC>

@@ -1,3 +1,4 @@
 # ImageBrowser
 
-path is media/sdcard
+Successful operation in windows
+Image path is media/sdcard
